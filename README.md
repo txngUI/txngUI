@@ -1,35 +1,12 @@
-### Hi, my name is Tanguy and welcome on my page ! 👋*
+### Hi, I am Tanguy DAVID and welcome on my page ! 👋*
 
-- 🔭 I’m currently working as IT designer and developer in the company Transports CHABAS in sandwich course.
+- 🏫 I'm studying computer science and more specifically web dev & object-oriented programming at the Institut Universitaire de Technologie de Laval (53000, France)!
+- 🖥️ I'm currently working as an IT designer and developer for Transports CHABAS on a sandwich course.
+- 🎂 I am 20 years old.
+- 📍 I am from Vendée.
 
-<table>
-        <tr>
-            <th width="33%">FrontEnd</th>
-            <th width="33%">BackEnd</th>
-            <th width="33%">DevOps&Engines</th>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>Java</td>
-            <td>AndroidStudio</td>
-        </tr>
-        <tr>
-            <td>JS</td>
-            <td>Python</td>
-            <td>VSCode</td>
-        </tr>
-        <tr>
-            <td>CSS</td>
-            <td>NextJS</td>
-            <td>Intellij</td>
-        </tr>
-        <tr>
-            <td>ReactJS</td>
-            <td>AJAX</td>
-            <td>Homme</td>
-        </tr>
-    </table>
-
+###### Skills
+# Languages
 <!--
 **txngUI/txngUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
