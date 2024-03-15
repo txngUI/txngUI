@@ -4,9 +4,9 @@
 
 <table>
         <tr>
-            <th width="33%">>FrontEnd</th>
-            <th width="33%">>BackEnd</th>
-            <th width="33%">>DevOps&Engines</th>
+            <th width="33%">FrontEnd</th>
+            <th width="33%">BackEnd</th>
+            <th width="33%">DevOps&Engines</th>
         </tr>
         <tr>
             <td>HTML</td>
