@@ -1,4 +1,4 @@
-#Profile
+# Profile
 ### Hi, I am Tanguy DAVID and welcome on my page ! 👋*
 
 - 🏫 I'm studying computer science and more specifically web dev & object-oriented programming at the Institut Universitaire de Technologie de Laval (53000, France)!
