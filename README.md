@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as IT designer and developer in the company Transports CHABAS in sandwich course.
 
-<table>
+<table style="width:300px">
         <tr>
             <th>FrontEnd</th>
             <th>BackEnd</th>
