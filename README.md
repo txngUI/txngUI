@@ -1,3 +1,4 @@
+#Profile
 ### Hi, I am Tanguy DAVID and welcome on my page ! 👋*
 
 - 🏫 I'm studying computer science and more specifically web dev & object-oriented programming at the Institut Universitaire de Technologie de Laval (53000, France)!
@@ -5,8 +6,8 @@
 - 🎂 I am 20 years old.
 - 📍 I am from Vendée.
 
-###### Skills
-# Languages
+# Skills
+#### Languages
 <!--
 **txngUI/txngUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
