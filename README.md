@@ -3,17 +3,27 @@
 - 🔭 I’m currently working as IT designer and developer in the company Transports CHABAS in sandwich course.
 
 <table>
-  <th>
-    <tr>Test 1</tr>
-    <tr>Test 2</tr>
-    <tr>Test 3</tr>
-  </th>
-  <td>
-    <tr>Test 1</tr>
-    <tr>Test 2</tr>
-    <tr>Test 3</tr>
-  </td>
-</table>
+        <tr>
+            <th>Nom</th>
+            <th>Âge</th>
+            <th>Genre</th>
+        </tr>
+        <tr>
+            <td>Jean</td>
+            <td>25</td>
+            <td>Homme</td>
+        </tr>
+        <tr>
+            <td>Marie</td>
+            <td>30</td>
+            <td>Femme</td>
+        </tr>
+        <tr>
+            <td>Pierre</td>
+            <td>40</td>
+            <td>Homme</td>
+        </tr>
+    </table>
 
 <!--
 **txngUI/txngUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
