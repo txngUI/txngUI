@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working as IT designer and developer in the company Transports CHABAS in sandwich course.
 
-<table width="33%">
+<table>
         <tr>
-            <th>FrontEnd</th>
-            <th>BackEnd</th>
-            <th>DevOps&Engines</th>
+            <th width="33%">>FrontEnd</th>
+            <th width="33%">>BackEnd</th>
+            <th width="33%">>DevOps&Engines</th>
         </tr>
         <tr>
             <td>HTML</td>
