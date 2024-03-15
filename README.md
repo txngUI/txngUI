@@ -4,23 +4,28 @@
 
 <table>
         <tr>
-            <th>Nom</th>
-            <th>Âge</th>
-            <th>Genre</th>
+            <th>FrontEnd</th>
+            <th>BackEnd</th>
+            <th>DevOps&Engines</th>
         </tr>
         <tr>
-            <td>Jean</td>
-            <td>25</td>
-            <td>Homme</td>
+            <td>HTML</td>
+            <td>Java</td>
+            <td>AndroidStudio</td>
         </tr>
         <tr>
-            <td>Marie</td>
-            <td>30</td>
-            <td>Femme</td>
+            <td>JS</td>
+            <td>Python</td>
+            <td>VSCode</td>
         </tr>
         <tr>
-            <td>Pierre</td>
-            <td>40</td>
+            <td>CSS</td>
+            <td>NextJS</td>
+            <td>Intellij</td>
+        </tr>
+        <tr>
+            <td>ReactJS</td>
+            <td>AJAX</td>
             <td>Homme</td>
         </tr>
     </table>
