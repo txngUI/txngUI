@@ -3,8 +3,8 @@
 
 - 🏫 I'm studying computer science and more specifically web dev & object-oriented programming at the Institut Universitaire de Technologie de Laval (53000, France)!
 - 🖥️ I'm currently working as an IT designer and developer for Transports CHABAS on a sandwich course.
-- 🎂 I am 20 years old.
-- 📍 I am from Vendée.
+- 🎂 I'm 20 years old.
+- 📍 I'm from Vendée.
 
 # Skills
 #### Languages
