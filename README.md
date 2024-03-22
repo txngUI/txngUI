@@ -8,6 +8,7 @@
 - 📍 I'm from Vendée.
 
 # Skills
+<div display="flex" justify-content="center">
 <table><tr><td valign="top" width="33%">
   
 ### Frontend  
@@ -50,5 +51,5 @@
 <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="50" /></a>
 <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" height="50" /></a>
 </div>
-  
+</div>
 </td></tr></table> 
