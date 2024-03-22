@@ -23,13 +23,9 @@
 
 
 ### Backend  
-<div align="center">
-<a href="https://kotlinlang.org" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
+<div align="center"> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Bash" height="50" /></a>  
-<a href="https://www.discord.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bots" alt="discordjs" height="50" /></a> 
-<a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
 <a href="https://www.mysql.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySql" height="50" /></a>
 </div>
 
