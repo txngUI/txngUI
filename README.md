@@ -10,7 +10,7 @@
 # Skills
 
 <div align="center">
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -20,7 +20,7 @@
 <a href="https://fr.legacy.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Backend  
 <div align="center"> 
@@ -30,7 +30,7 @@
 </div>
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
   
 ### DevOps & Engines  
 <div align="center">  
