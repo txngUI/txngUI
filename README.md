@@ -9,7 +9,7 @@
 
 # Skills
 <div display="flex" justify-content="center">
-<table width="100vw"><tr><td valign="top" width="33%">
+<table width="100vw"><tr><td valign="top" >
   
 ### Frontend  
 <div align="center">  
