@@ -7,7 +7,8 @@
 - 📍 I'm from Vendée.
 
 # Skills
-
+<table><tr><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
