@@ -53,6 +53,3 @@
 </div>
   
 </td></tr></table> 
-
-<h4 align="center"><a href="https://github.com/damiencren"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logoColor=bada55&style=for-the-badge"></a>
-  <br><a>©damiencren</a></h4>
