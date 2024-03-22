@@ -8,9 +8,10 @@
 - 📍 I'm from Vendée.
 
 # Skills
-<div display="flex" justify-content="center">
-<table width="100vw"><tr><td valign="top" >
-  
+
+<div align="center">
+<table><tr><td valign="top" width="33%">
+
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
@@ -20,7 +21,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 ### Backend  
 <div align="center"> 
@@ -53,3 +53,4 @@
 </div>
 </div>
 </td></tr></table> 
+</div>
