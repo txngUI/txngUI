@@ -1,7 +1,8 @@
 # Profile
 #### Hi, I am Tanguy DAVID and welcome on my page ! 👋
 
-- 🏫 I'm studying computer science and more specifically web dev & object-oriented programming at the Institut Universitaire de Technologie de Laval (53000, France)!
+- 🏫 I'm studying computer science and more specifically web development & object-oriented programming at the Institut Universitaire de Technologie de Laval (53000, France)!
+- 📱 I like to develop websites and android apps.
 - 🖥️ I'm currently working as an IT designer and developer for Transports CHABAS on a sandwich course.
 - 🎂 I'm 20 years old.
 - 📍 I'm from Vendée.
@@ -14,6 +15,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
+<a href="https://fr.legacy.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="50" /></a>
 </div>
 </div>
 
