@@ -47,3 +47,7 @@
 </div>
 </td></tr></table> 
 </div>
+
+## Contact Me
+[![Discord](https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord)](https://discord.com/users/527077644198608916)
+[![Portfolio] Work In Progress
