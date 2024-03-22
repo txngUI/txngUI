@@ -17,7 +17,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
 <a href="https://fr.legacy.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="50" /></a>
 </div>
-</div>
 
 </td><td valign="top" width="33%">
 
