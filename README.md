@@ -28,6 +28,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
 <a href="https://www.mysql.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySql" height="50" /></a>
 <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="50"/></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=next" alt="NextJS" height="50"/></a>
 </div>
 
 
