@@ -53,4 +53,4 @@
 ## Contact Me
 [![Discord](https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord)](https://discord.com/users/527077644198608916)
 <!-- [![Portfolio] --> 
-Portfolio work In Progress
+[Portfolio work In Progress](https://txngui.github.io/Portfolio/)
