@@ -34,7 +34,7 @@
 
 </td><td valign="top" width="33%">
   
-### DevOps & Engines  
+### DevOps & Softwares  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50"/></a>  
