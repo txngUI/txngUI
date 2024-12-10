@@ -54,3 +54,11 @@
 [![Discord](https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord)](https://discord.com/users/527077644198608916)
 <!-- [![Portfolio] --> 
 [![Mon site](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://txngui.github.io/Portfolio/)
+
+<h3> 📊 &nbsp;Github Stats </h3>
+
+<a href="https://github.com/EAnathos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=radical&layout=compact" />
+</a>
+
