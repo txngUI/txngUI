@@ -57,7 +57,7 @@
 
 <h3> 📊 &nbsp;Github Stats </h3>
 
-<a href="https://github.com/EAnathos">
+<a href="https://github.com/txngUI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=txngUI&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txngUI&theme=radical&layout=compact" />
 </a>
