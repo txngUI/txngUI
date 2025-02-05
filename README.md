@@ -4,7 +4,7 @@
 - 🏫 I'm studying computer science and more specifically web development & object-oriented programming at the Institut Universitaire de Technologie de Laval (53000, France)!
 - 📱 I like to develop websites and android apps.
 - 🖥️ I'm currently working as an IT designer and developer for Transports CHABAS on a sandwich course.
-- 🎂 I'm 20 years old.
+- 🎂 I'm 21 years old.
 - 📍 I'm from Vendée.
 
 # Skills
