@@ -57,13 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=txngUI&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txngUI&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=txngUI&theme=radical&hide_border=true" alt="Streak" />
 </p>
