@@ -1,68 +1,75 @@
-# Profile
-#### Hi, I am Tanguy DAVID and welcome on my page ! 👋
+<h1 align="center">Hi, I'm Tanguy DAVID 👋</h1>
 
-- 🏫 I'm studying computer science and more specifically web development & object-oriented programming at Sup de Vinci Rennes (35000, France)!
-- 📱 I like to develop websites and android apps.
-- 🖥️ I'm currently working as a Java developer for Banque Populaire & Caisse d'Epargne IT Solutions on a work-study program.
-- 🎂 I'm 21 years old.
-- 📍 I'm from Vendée.
+<p align="center">
+  <b>Full Stack Developer</b> · Java & TypeScript · Rennes, France 🇫🇷
+</p>
 
-# Skills
+<p align="center">
+  <a href="https://tanguydavid.fr"><img src="https://img.shields.io/badge/Portfolio-tanguydavid.fr-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://discord.com/users/527077644198608916"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/txngUI"><img src="https://img.shields.io/github/followers/txngUI?style=flat-square&label=Follow&logo=github&color=181717" alt="GitHub followers" /></a>
+</p>
 
-<div align="center">
-<table width="100vw"><tr><td valign="top" width="33%">
+---
 
-### Frontend  
-<div align="center">  
-<a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=angular" alt="Angular" height="50" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>
-<a href="https://fr.legacy.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
-</div>
+## 🧑‍💻 About me
 
-</td><td valign="top" width="33%">
+- 🎓 **M1 Full Stack Development** student in Rennes — web development & object-oriented programming.
+- 🏢 **Apprentice Java developer** at **BPCE** (Banque Populaire & Caisse d'Épargne IT Solutions).
+- 🛠️ I build **web apps** and **mobile apps**, from the API to the UI.
+- 🌍 Originally from Vendée, based near Rennes.
+- 💬 Ask me about **Spring Boot**, **Next.js**, or **React Native**.
 
-### Backend  
-<div align="center"> 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>
-<a href="https://www.mysql.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySql" height="50" /></a>
-<a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="50"/></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=next" alt="NextJS" height="50"/></a>
-<a href="https://learn.microsoft.com/fr-fr/cpp/?view=msvc-170" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50"/></a>
-</div>
+---
 
+## 🚀 Tech Stack
 
-</td><td valign="top" width="33%">
-  
-### DevOps & Softwares  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50"/></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
-<a href="https://www.figma.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
-<a href="https://developer.android.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="InteliJ" height="50" /></a>
-<a href="https://www.eclipse.org" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Eclipse" height="50" /></a>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,go,php" alt="Languages" />
+</p>
 
-</div>
-</div>
-</td></tr></table> 
-</div>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css" alt="Frontend" />
+</p>
 
-## Contact Me
-[![Discord](https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord)](https://discord.com/users/527077644198608916)
-<!-- [![Portfolio] --> 
-[![Mon site](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://tanguydavid.fr)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql" alt="Backend" />
+</p>
 
-<h3> 📊 &nbsp;Github Stats </h3>
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" height="42" align="top" alt="Expo" />
+</p>
 
-<a href="https://github.com/txngUI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=txngUI&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txngUI&theme=radical&layout=compact" />
-</a>
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,figma" alt="DevOps & Tools" />
+</p>
 
+### IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" alt="IDEs" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=txngUI&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txngUI&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txngUI&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Toujours en train d'apprendre quelque chose de nouveau. 🚀</i>
+</p>
