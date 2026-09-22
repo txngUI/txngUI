@@ -58,11 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txngUI&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
----
-
-<p align="center">
   <i>Toujours en train d'apprendre quelque chose de nouveau. 🚀</i>
 </p>
